@@ -193,6 +193,3 @@ The optional legacy notebook also references a raw Excel workbook that is absent
 
 Data validation and cleaning, Pandas/NumPy, EDA, Matplotlib/Seaborn, transaction-grain KPI design, RFM segmentation, cohort analysis, outlier interpretation, MySQL joins/CTEs/subqueries/windows, DAX, Power BI star-schema planning, metric reconciliation, data storytelling, and documenting analytical limitations.
 
-## Portfolio owner
-
-Replace this section with your own name and professional links before publishing. The repository’s prior author details are not reproduced here.
