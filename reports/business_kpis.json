@@ -1,0 +1,20 @@
+{
+  "revenue_basis": "Non-cancelled invoices; line revenue is Quantity * UnitPrice rounded to 2 decimals.",
+  "total_revenue": 10619986.68,
+  "total_orders": 22064,
+  "total_customers": 4339,
+  "average_order_value": 481.3264448875997,
+  "total_products": 4059,
+  "total_countries": 38,
+  "total_quantity": 5438062.0,
+  "repeat_customers": 2845,
+  "repeat_customer_rate_pct": 65.56810324959667,
+  "cancelled_invoice_count": 3836,
+  "all_invoice_count": 25900,
+  "cancelled_invoice_share_pct": 14.810810810810812,
+  "cancelled_row_share_pct": 1.7238712658928408,
+  "customer_analysis_snapshot_date": "2011-12-10",
+  "identified_customer_revenue_share_top_10_pct": 14.47891844248528,
+  "outlier_order_count_iqr": 1883,
+  "outlier_method": "1.5 * IQR fences on non-cancelled invoice net revenue; flagged, not removed."
+}
